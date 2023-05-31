@@ -1,0 +1,130 @@
+{
+    "intents": [
+      {
+        "tag": "greeting",
+        "patterns": [
+          "Hi",
+          "Hey",
+          "How are you",
+          "Is anyone there ?",
+          "Anyone there ?",
+          "Hello",
+          "Good day",
+          "Good Morning",
+          "Good Afternoon",
+          "Good Evening",
+          "Namaste",
+          "Hii",
+          "Hiii",
+          "Hlo"
+        ],
+        "responses": [
+          "Heyyyy :-)",
+          "Hello, thanks for visiting",
+          "Hi there, what can I do for you ?",
+          "Hi there, how can I help ?",
+          "How can I assist you today ?"
+        ]
+      },
+      {
+        "tag" : "about",
+        "patterns" : [
+          "What is JUIT ?",
+        "Where is JUIT ?", 
+        "What is a JUIT ?",
+        "Tell me about JUIT",
+         "Define JUIT",
+         "Give an overview of JUIT",
+         "What is the full form of JUIT ?",
+         "What does JUIT stand for ?",
+         "Define JUIT"
+        ],
+        "responses" :[
+            " JUIT(Jaypee university of information technology) was conceived by a joint vision of the Govt of Himachal Pradesh and the Founder Chairman of Jaypee Group Shri JaiPrakash Gaur in 2000. Land was provided on lease by the State Govt and the university was established by Act No 14 of 2002 vide Extraordinary Gazette Notification of the Govt of Himachal Pradesh dated May 23, 2002. The University Grants Commission accorded its approval under Section 2(f) of the UGC Act vide their Letter No. F 9-10/2002(CPP-1) dated 09 Dec 2002. The JUIT is also a member of the Association of Indian Universities (AIU).",
+            "JUIT is Jaypee University of Information Technology. It is a university in Waknaghat, Solan, Himachal Pradesh. It is known to be one of the best private engineering colleges in Himachal Pradesh. It offers courses in B.Tech, B.Sc.,M.Sc, M.Tech."
+        ]
+      },
+    {
+        "tag" : "academics",
+        "patterns" : [
+          "How are the academics in JUIT ?",
+        "What is the NIRF ranking of JUIT ?",
+        "How good is JUIT ?",
+        "How is study life in JUIT ?",
+        "How are studies in JUIT ?",
+        "What degrees does JUIT have ?",
+        "What is the fee structure at JUIT ?",
+        "How much fees in JUIT ?"
+      ],
+        "responses" : [
+          "The academic activities of JUIT commenced from July 2002 and currently offering undergraduate B. Tech degree programs in Bioinformatics, Biotechnology, Civil Engineering, Computer Science & Engineering, Electronics & Communication Engineering, Electronics & Computer Engineering and Information Technology. The fee per sem is around 80k depending on the semester.",
+        "The University has been twice accredited by NAAC (2011 and 2017).JUIT is Ranked 4th in Private Technical Universities, North Zone by The WEEK, 2022. 80k is the fee per sem."
+      ]
+    },
+    {
+      "tag" : "admissions",
+      "patterns" : [
+        "How to get admission in JUIT ?",
+        "How to get into JUIT ?",
+        "I want to take admission in JUIT",
+        "How to study in JUIT ?",
+        "Where to apply for JUIT ?",
+        "How to apply for admission ?",
+        "How much board percentage is needed to get admission at JUIT ?",
+        "How much JEE score is needed to take admission in JUIT ?"
+      ],
+        "responses" : [
+          "You can apply for admission in JUIT by visiting the website www.juit.ac.in/admissions",
+          "You can contact the admissions officer at JUIT : Dr. Deepak Kumar",
+          "You can send an email to admissions@juit.ac.in"
+        ]    
+      },
+      {
+        "tag" : "events",
+        "patterns" : ["What events are there in JUIT ?",
+         "Is there any fest in JUIT ?",
+         "What functions happen in JUIT ?",
+        "How many events happen in JUIT ?",
+         "What is the biggest event in JUIT ?"
+        ],
+         "responses" : [
+            "JUIT hosts various events in its campus throughout the year. The biggest one of them being LeFiestus which takes place around end of April or May. Apart from LF, other events like Diksha, Hasta La Vista, Murious, etc. take place.",
+        "Major JUIT fests include Diksha (Fresher's night), Hasta La Vista (Farewell), Le Fiestus (3 day event), Murious (Tech Fest), Parakaram (Sports Fest) and many other events, totalling to around 10 to 12 per year"
+      ]
+      },
+      {
+        "tag" : "services",
+        "patterns" : ["Which places can I eat in JUIT ?",
+        "What to do in JUIT ?",
+        "What should I do in JUIT ?",
+        "Is there a laundry in JUIT ?",
+        "How many places are there to eat in JUIT ?",
+        "What services are there in JUIT ?",
+        "Is there medical facilities in JUIT ?",
+        "What is the medical status at JUIT ?"
+        ],
+        "responses" : ["JUIT offers various services such as cafeteria, tuck shop, laundry, basketball court, football ground, etc. ",
+        "One can do a lot of activities in JUIT. Like visit the temple, playground, or visit tourism attractive places like Shimla or Kufri.",
+        "Due to its location JUIT is a very self dependent institution. So, it offers various services like laundry, bus transport, Ambulance, dispensary, etc."
+      ]
+        
+      },
+      {
+        "tag" : "placements",
+        "patterns" : ["What is the placement record at JUIT ?",
+        "How are the placements at JUIT ?",
+        "How many companies visit JUIT for placements ?",
+        "Tell me about placements at JUIT",
+        "What is the highest package at JUIT ?",
+        "How many students get placement at JUIT ?",
+        "Does google come for placement at JUIT ?"
+        ],
+        "responses" : [
+            "JUIT has a decent placement record. The placement drive occurs in the 7th semester. All the Jaypee group Universities are a part of a common placement drive pool. Many well known companies like Amazon, TCS, Infosys, etc. come for the drive. JUIT has an average placement record of about 90%",
+      "Placement record alters from year to year. The highest package was bagged by an off campus placement in amazon. Overall, the JUIT placement record is pretty decent at about 90% for CS/IT students.",
+      "To be honest, placement depends on the individual, on how hard he/she works through the academic years. JUIT offers fair opportunities for the students willing to prove themselves when the time comes."
+    ]
+      }
+    ]
+}
+
